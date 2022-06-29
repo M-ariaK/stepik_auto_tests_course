@@ -7,4 +7,4 @@ homework
 ##### ку
 ###### кто здесь
 
-ready
+ready steady GO
